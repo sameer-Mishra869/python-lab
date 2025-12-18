@@ -1,0 +1,7 @@
+Chicken,500,g
+Garlic,8,cloves
+Onion,2,medium
+Tomato,3,medium
+Oil,3,tbsp
+Salt,1,tsp
+Pepper,1,tsp

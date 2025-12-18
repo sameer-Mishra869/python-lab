@@ -1,0 +1,3 @@
+name,cuisine,difficulty,prep_time,cook_time,servings,category,dietary_tags,ingredients,steps
+Garlic Chicken,Indian,Easy,15,25,4,Dinner,"Gluten-Free|High-Protein","Chicken:500:g|Garlic:8:cloves|Onion:2:medium|Tomato:3:medium|Oil:3:tbsp|Salt:1:tsp|Pepper:1:tsp","Heat oil in pan|Add garlic and onions|Saute till golden|Add tomatoes|Cook till soft|Add chicken pieces|Cook on medium-high|Season with salt and pepper|Garnish with cilantro|Serve hot"
+Tomato Soup,Continental,Easy,10,20,3,Lunch,"Vegetarian","Tomato:5:medium|Onion:1:small|Garlic:3:cloves|Oil:2:tbsp|Salt:1:tsp","Heat oil|Add onion and garlic|Add tomatoes and water|Boil|Blend and serve"
