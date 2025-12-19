@@ -1,3 +1,21 @@
+# Student Management System (Python)
+
+A simple Python project to manage student records using file handling.
+
+## Features
+- Add student details
+- View stored students
+- Uses CSV file for storage
+- Object-Oriented Programming
+
+## Files
+- main.py – Main program
+- student.py – Student class
+- data.csv – Student records
+
+## How to Run
+```bash
+python main.py
 # Python Lab
 
 This repository contains Python lab programs developed for academic practice.
